@@ -26,6 +26,11 @@ public static void main( String args[] )
  if ( num2 < 0  )
 	  
 	  System.out.printf("Given Second Number Negitive\n" );
+ 
+ if ( num1 == 0)
+	 
+	  System.out.printf("Given First Number has Zero value \n" );
+ 
 
   if ( num1 == num2 )
 	  System.out.printf("%d ==%d\n", num1, num2 );
