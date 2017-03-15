@@ -26,9 +26,7 @@ public static void main( String args[] )
  if ( num2 < 0  )
 	  
 	  System.out.printf("Given Second Number Negitive\n" );
- if (num1 < 0 && num2 < 0 )
-  
-	 System.out.printf("Both Numbers are Negitive\n" );
+
   if ( num1 == num2 )
 	  System.out.printf("%d ==%d\n", num1, num2 );
   
